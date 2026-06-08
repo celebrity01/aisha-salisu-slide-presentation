@@ -736,7 +736,7 @@
                 <a:ea typeface="Gill Sans MT" pitchFamily="34" charset="-122"/>
                 <a:cs typeface="Gill Sans MT" pitchFamily="34" charset="-120"/>
               </a:rPr>
-              <a:t> 25-28 degrees C for 5-7 days. Subcultured to ensure purity.</a:t>
+              <a:t> 25-28 &#176;C for 5-7 days. Subcultured to ensure purity.</a:t>
             </a:r>
             <a:endParaRPr lang="en-US" sz="1100" dirty="0"/>
           </a:p>
@@ -906,7 +906,7 @@
                 <a:ea typeface="Gill Sans MT" pitchFamily="34" charset="-122"/>
                 <a:cs typeface="Gill Sans MT" pitchFamily="34" charset="-120"/>
               </a:rPr>
-              <a:t> Agar well diffusion. Ketoconazole (50 ug/mL), Fluconazole (25 ug/mL), Griseofulvin (100 ug/mL).</a:t>
+              <a:t> Agar well diffusion. Ketoconazole (50 &#181;g/mL), Fluconazole (25 &#181;g/mL), Griseofulvin (100 &#181;g/mL).</a:t>
             </a:r>
             <a:endParaRPr lang="en-US" sz="1100" dirty="0"/>
           </a:p>
